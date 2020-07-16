@@ -38,6 +38,16 @@
 	
 	#完成存檔離開，:wq
 	
+	#需重新啟動遠端連線程式
+	
+	exit
+	
+	exit
+	
+	r
+	
+	#安裝git
+	
 	sudo yum install git-all
   
     git clone https://github.com/og80218/2020_docker-dockercompose_installation-process_script.git
